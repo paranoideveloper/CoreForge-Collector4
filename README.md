@@ -2,8 +2,6 @@
 
 VPN configs **verified live from inside Iran** 🇮🇷.
 
-Unlike a normal aggregator, every config here was tested from a real server in **Tehran**: a local proxy was spun up with the config as its only outbound, and a file was downloaded through it to the open internet. Only configs that **actually carried traffic out of Iran** are published. This is ground truth, not a handshake check from a friendly network.
-
 ## Subscription
 
 - **Base64:** `https://raw.githubusercontent.com/paranoideveloper/CoreForge-Collector4/main/subscription_base64.txt`
@@ -28,8 +26,8 @@ A low pass rate is expected and honest — most publicly-shared configs do **not
 ## Method
 
 1. A pool is scraped from public sources (GitHub + Telegram mirrors + subscriptions).
-2. The pool is shipped to a Tehran vantage.
-3. From Iran: a TCP-reachability prefilter, then a full proxy test per survivor (spin up the tunnel, download through it, measure throughput).
+2. The pool is shipped to an in-country vantage.
+3. From there: a TCP-reachability prefilter, then a full proxy test per survivor (spin up the tunnel, download through it, measure throughput).
 4. Survivors are deduped, speed-ranked, tagged, and published here.
 
 *These are third-party public configs, not operated by this project — they can stop working at any time. Refreshed on each run.*
