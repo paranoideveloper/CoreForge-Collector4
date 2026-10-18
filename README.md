@@ -16,10 +16,11 @@ Add the base64 URL to any client (v2rayNG, NekoBox, Hiddify, Streisand, …). Ea
 | Scraped pool (fresh) | 31,872 |
 | Testable (vless/vmess/trojan/ss) | 31,251 |
 | Unique backends after dedup | 16,089 |
-| Tunnel-tested from Iran | 4,000 |
-| **Verified working from Iran** | **5** |
+| TCP-reachable from Iran | 5,158 |
+| Full tunnel+download tests from Iran | 5,158 |
+| **Verified working from Iran** | **6** |
 
-Working set: 4 × VLESS, 1 × VMess. Exit countries: 🇬🇧 GB, 🇰🇷 KR, 🇨🇦 CA (+ 2 Iran-internal).
+Working set: 4 × VLESS, 1 × VMess, 1 × Shadowsocks. Each config is flagged by its **true exit IP** (measured through the tunnel, not the server host): 🇬🇧 GB, 🇩🇪 DE, 🇹🇷 TR, 🇯🇵 JP, 🇿🇦 ZA, + 1 unconfirmed. All exits are foreign — none exit inside Iran.
 
 A low pass rate is expected and honest — most publicly-shared configs do **not** survive Iran's filtering. The handful that do are what you see here.
 
