@@ -77,3 +77,4 @@ vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encrypt
 vless://e7a4decb-631e-422b-9749-7e8f54618308@rusx2.braidx.tech:443?security=reality&encryption=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#%F0%9F%87%B7%F0%9F%87%BA%20CoreForge%204%20077
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.146.8:22223?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20CoreForge%204%20078
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.146.8:22224?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20CoreForge%204%20079
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.146.8:22222?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20CoreForge%204%20080
