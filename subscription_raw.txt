@@ -72,3 +72,13 @@ vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FT
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20072
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20073
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22222#%F0%9F%87%AC%F0%9F%87%A7%20CoreForge%204%20074
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#%F0%9F%87%B8%F0%9F%87%AC%20CoreForge%204%20075
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&sni=us1p1.xn--ghq880n3na965a.com&fp=chrome&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&sid=e51285e3&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20CoreForge%204%20076
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&security=none&type=ws&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%87%A9%F0%9F%87%AA%20CoreForge%204%20077
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNXdFNWhiQ2Mta09VcWJhWjNKYUFn@91.107.180.254:1080#%F0%9F%87%A9%F0%9F%87%AA%20CoreForge%204%20078
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20079
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22223?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20080
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22224?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20081
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20082
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20083
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20CoreForge%204%20084
