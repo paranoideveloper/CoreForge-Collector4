@@ -68,3 +68,7 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?secu
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#%F0%9F%87%BA%F0%9F%87%B8%20CoreForge%204%20068
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20CoreForge%204%20069
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22222?#%F0%9F%87%AC%F0%9F%87%A7%20CoreForge%204%20070
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20CoreForge%204%20071
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20072
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&amp;security=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20CoreForge%204%20073
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22222#%F0%9F%87%AC%F0%9F%87%A7%20CoreForge%204%20074
